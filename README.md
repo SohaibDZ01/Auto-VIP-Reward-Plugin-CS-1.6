@@ -1,7 +1,7 @@
 # Auto VIP Reward Plugin
 
 ### Author: **Sohaib DZ**  
-### Version: **1.0**  
+### Version: **1.1**  
 ### Platform: **AMX Mod X (for Counter-Strike 1.6 and related mods)**
 
 ---
